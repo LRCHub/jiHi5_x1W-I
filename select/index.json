@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "WonderLaund",
+  "base_artist": "影。/かげまる",
+  "createdAt": "2026-02-12T07:38:40.283234Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WonderLaund",
+      "artist": "影。/かげまる",
+      "has_synced": false,
+      "path": "select/pl_01_WonderLaund_影。_かげまる.txt"
+    }
+  ]
+}
